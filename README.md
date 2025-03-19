@@ -35,7 +35,7 @@ This game is perfect for beginners who want to explore game development with Pyt
 ## **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MohammadHosseinYaghubi/BugRace.git
+   git clone https://github.com/MohammadHosseinYaghubi/BugRace
    ```
 2. Navigate to the project directory:
    ```bash
