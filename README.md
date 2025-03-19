@@ -1,7 +1,3 @@
-Here’s a professional and engaging description of your game in English that you can include in your `README.md` file:
-
----
-
 # **Race Bug Game**
 
 **Race Bug** is a simple and fun arcade-style game built using **Pygame**, a popular Python library for creating games. In this game, you control a bug (the "Race Bug") and try to dodge incoming obstacles. The longer you survive, the higher your score! But be careful—crashing into an obstacle will end the game.
