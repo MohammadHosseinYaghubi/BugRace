@@ -23,7 +23,7 @@ This game is perfect for beginners who want to explore game development with Pyt
 ---
 
 ## **Requirements**
-- Python 3.10 or higher
+- Python 3.7 or higher
 - Pygame 1.7 or higher
 
 ---
