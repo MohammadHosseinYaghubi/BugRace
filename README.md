@@ -73,3 +73,5 @@ You can reach out via email at [m.h.yaghubi.info@gmail.com](mailto:m.h.yaghubi.i
 Enjoy playing **Race Bug**! 🚗💨
 
 ---
+## Support This Project
+If you found this project helpful or enjoyed using it, we would greatly appreciate your support! Giving a ⭐️ star on GitHub not only motivates us but also helps others discover this project. Thank you for your kindness and encouragement!
